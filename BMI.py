@@ -33,3 +33,4 @@ def calculate_bmi():
 button = st.button("Calculate BMI")
 if button:
     calculate_bmi()
+st.balloons
